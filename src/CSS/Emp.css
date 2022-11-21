@@ -1,0 +1,12 @@
+#div-content{
+  top: 93px;
+  left: 264px;
+  width: 98%;
+  margin: 0 auto;
+  height: 200px;
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #EDEDED;
+  border-radius: 10px;
+  opacity: 1;
+}

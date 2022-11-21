@@ -1,0 +1,106 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  background-color: #F7F7F7;
+}
+
+.flex-container > div {
+  background-color: white;
+  font-size: 30px;
+  border: 1px solid #EDEDED;
+  border-radius: 10px;
+
+
+  
+}
+
+#box{
+
+  padding: 10px;
+  margin-left: 45px;
+  /* background: url("../images/customers@2x.png");
+  display: inline-block;
+  background-size: cover; */
+}
+
+/* #contetn{
+  justify-content: flex-start;
+  align-items: flex-start;
+} */
+
+#num{
+  /* margin-left: -100px; */
+  /* top: 329px;
+  left: 200px; */
+  /* width: 87px;
+  height: 29px; */
+  font: normal normal bold 24px/29px Inter;
+  letter-spacing: 0.38px;
+  color: #06283D;
+  opacity: 1;
+}
+
+#per{
+/* top: 334px;
+left: 650px;
+width: 44px;
+height: 20px; */
+/* UI Properties */
+color: var(--unnamed-color-858585);
+/* text-align: left; */
+font: normal normal normal 16px/20px Inter;
+letter-spacing: 0.26px;
+color: #858585;
+opacity: 1;
+}
+
+#dep{
+  /* margin-left: -100px;
+  top: 365px;
+left: 288px;
+width: 85px;
+height: 20px; */
+color: var(--unnamed-color-858585);
+/* text-align: left; */
+font: normal normal normal 16px/20px Inter;
+letter-spacing: 0.32px;
+color: #858585;
+opacity: 1;
+}
+
+/* #cus{
+  align-self: flex-end;
+margin-top: 50px;
+  margin-left: 200px;
+width: 25px;
+height: 25px;
+background: transparent url('../images/customers@2x.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+#prod{
+  align-items: flex-end;
+  text-align: right;
+  justify-content: flex-end;
+width: 50px;
+height: 50px;
+background: transparent url('../images/products@2x.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+#sale{
+  margin-left: 200px;
+width: 72px;
+height: 72px;
+background: transparent url('../images/sales@2x.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+#ref{
+  margin-left: 200px;
+width: 72px;
+height: 72px;
+background: transparent url('../images/refunds@2x.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+} */

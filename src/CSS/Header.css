@@ -1,0 +1,61 @@
+#head-content{
+  top: 93px;
+  left: 264px;
+  width: 98%;
+  margin: 0 auto;
+  height: 200px;
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #EDEDED;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+#banner{
+  margin-left: 900px;
+  margin-top: -100px;  
+  width: 630px;
+  height: 172px;
+  background: transparent url('../images/Banner-web.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  /* width: 100%;
+  height: auto; */
+}
+
+#earnings{
+  top: 119px;
+  left: 320px;
+  width: 200px;
+  height: 20px;
+  color: var(--unnamed-color-858585);
+  text-align: right;
+  font: normal normal normal 16px/20px Inter;
+  letter-spacing: 0.32px;
+  color: #858585;
+  opacity: 1;
+}
+
+#money{
+  top: 147px;
+  left: 320px;
+  width: 200px;
+  height: 29px;
+  color: var(--unnamed-color-06283d);
+  text-align: right;
+  font: normal normal bold 24px/29px Inter;
+  letter-spacing: 0.38px;
+  color: #06283D;
+  opacity: 1;
+}
+
+#download-btn{
+  margin-left: 50px;
+  top: 200px;
+  left: 320px;
+  width: 150px;
+  height: 40px;
+  background: var(--unnamed-color-0483fc) 0% 0% no-repeat padding-box;
+  background: #0483FC 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+}
